@@ -23,7 +23,7 @@ To run the sample programs you need to:
   <Profiles />
   <Settings>
     <Setting Name="Uri" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">https://test.reeleezee.nl/api/v1</Value>
+      <Value Profile="(Default)">https://portal.reeleezee.nl/api/v1</Value>
     </Setting>
     <Setting Name="UserName" Type="System.String" Scope="Application">
       <Value Profile="(Default)">username</Value>
