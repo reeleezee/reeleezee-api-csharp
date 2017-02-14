@@ -1,0 +1,4 @@
+Please copy the following assemblies in this folder:
+
+Newtonsoft.Json.dll
+RestSharp.dll
